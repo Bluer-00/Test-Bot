@@ -1,0 +1,6 @@
+{
+    "token": "ODkwMjk5NzQwNTY5MzQxOTU0.YUtyPw.5IDQUpuNaarm9yUJ8IG5NKfux9Q",
+    "prefix": ">",
+    "mongoPath": "mongo path here",
+    "redisPath": "redis path here"
+  }
